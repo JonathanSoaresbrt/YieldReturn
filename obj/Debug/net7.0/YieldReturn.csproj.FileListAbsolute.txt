@@ -1,0 +1,15 @@
+/Users/jonathanbrito/Estudos/YieldReturn/bin/Debug/net7.0/YieldReturn
+/Users/jonathanbrito/Estudos/YieldReturn/bin/Debug/net7.0/YieldReturn.deps.json
+/Users/jonathanbrito/Estudos/YieldReturn/bin/Debug/net7.0/YieldReturn.runtimeconfig.json
+/Users/jonathanbrito/Estudos/YieldReturn/bin/Debug/net7.0/YieldReturn.dll
+/Users/jonathanbrito/Estudos/YieldReturn/bin/Debug/net7.0/YieldReturn.pdb
+/Users/jonathanbrito/Estudos/YieldReturn/obj/Debug/net7.0/YieldReturn.csproj.AssemblyReference.cache
+/Users/jonathanbrito/Estudos/YieldReturn/obj/Debug/net7.0/YieldReturn.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jonathanbrito/Estudos/YieldReturn/obj/Debug/net7.0/YieldReturn.AssemblyInfoInputs.cache
+/Users/jonathanbrito/Estudos/YieldReturn/obj/Debug/net7.0/YieldReturn.AssemblyInfo.cs
+/Users/jonathanbrito/Estudos/YieldReturn/obj/Debug/net7.0/YieldReturn.csproj.CoreCompileInputs.cache
+/Users/jonathanbrito/Estudos/YieldReturn/obj/Debug/net7.0/YieldReturn.dll
+/Users/jonathanbrito/Estudos/YieldReturn/obj/Debug/net7.0/refint/YieldReturn.dll
+/Users/jonathanbrito/Estudos/YieldReturn/obj/Debug/net7.0/YieldReturn.pdb
+/Users/jonathanbrito/Estudos/YieldReturn/obj/Debug/net7.0/YieldReturn.genruntimeconfig.cache
+/Users/jonathanbrito/Estudos/YieldReturn/obj/Debug/net7.0/ref/YieldReturn.dll
